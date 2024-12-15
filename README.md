@@ -17,8 +17,8 @@ If youre stuck on the installation steps or the code check out the tutorial [htt
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/blockchain-sniper-bot.git
-cd blockchain-sniper-bot
+git clone https://github.com/lggg123/ethereum_sniper_bot.git
+cd ethereum_sniper_bot
 ```
 
 2. Install dependencies:
@@ -90,7 +90,7 @@ After a successful compile:
 
 This project uses Anvil, a local blockchain simulator from Foundry. To set up and run the local blockchain:
 
-1. Install Foundry (if not already installed):
+1. Install Foundry (if not already installed, plug into ChatGPT if foundryup command isnt working):
 ```bash
 curl -L https://foundry.paradigm.xyz | bash
 foundryup
