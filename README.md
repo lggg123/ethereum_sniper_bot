@@ -3,6 +3,7 @@
 ## Overview
 
 This project is a JavaScript-based blockchain sniper bot designed to monitor and execute trades on the blockchain with high-speed precision.
+If youre stuck on the installation steps or the code check out the tutorial [https://https://www.youtube.com/watch?v=v7Y7F60YdFQ&t=790s](Crypto Sniper Bot Tutorial w Julian)  
 
 ## Prerequisites
 
@@ -29,7 +30,7 @@ yarn install
 
 3. Smart Contract Compilation
 
-In this step, we’ll deploy our ERC-20 token smart contract using [Remix](https://remix.ethereum.org). Remix is a web-based IDE for developing, testing, and deploying Solidity contracts.
+In this step, we’ll compile our ERC-20 token smart contract using [Remix](https://remix.ethereum.org). Remix is a web-based IDE for developing, testing, and deploying Solidity contracts.
 
 ### 3.1. Open Remix
 
