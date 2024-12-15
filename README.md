@@ -3,7 +3,7 @@
 ## Overview
 
 This project is a JavaScript-based blockchain sniper bot designed to monitor and execute trades on the blockchain with high-speed precision.
-If youre stuck on the installation steps or the code check out the tutorial [https://https://www.youtube.com/watch?v=v7Y7F60YdFQ&t=790s](Crypto Sniper Bot Tutorial w Julian)  
+If youre stuck on the installation steps or the code check out the tutorial [https://www.youtube.com/watch?v=v7Y7F60YdFQ&t=790s](Crypto Sniper Bot Tutorial w Julian)  
 
 ## Prerequisites
 
